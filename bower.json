@@ -1,0 +1,29 @@
+{
+  "name": "ui-logger",
+  "version": "0.0.1",
+  "authors": [
+    "John Papa",
+    "svenmeys <sven.meys@gmail.com>"
+  ],
+  "description": "Logger component",
+  "main": "logger.module.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular",
+    "ui",
+    "logger"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "toastr": "~2.1.1"
+  }
+}
