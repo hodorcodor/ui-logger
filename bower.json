@@ -6,7 +6,7 @@
     "svenmeys <sven.meys@gmail.com>"
   ],
   "description": "Logger component",
-  "main": "logger.module.js",
+  "main": ["logger.module.js", "logger.js"],
   "moduleType": [
     "globals"
   ],
